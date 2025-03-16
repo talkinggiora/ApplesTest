@@ -1,0 +1,9 @@
+com.GrigoryZubar.Playnera.launcher-pngs-0 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.GrigoryZubar.Playnera.launcher-resValues-1 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.GrigoryZubar.Playnera.launcher-rs-2 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.GrigoryZubar.Playnera.launcher-mergeReleaseResources-3 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.GrigoryZubar.Playnera.launcher-mergeReleaseResources-4 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.GrigoryZubar.Playnera.launcher-merged_res-5 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.GrigoryZubar.Playnera.launcher-main-6 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.GrigoryZubar.Playnera.launcher-release-7 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.GrigoryZubar.Playnera.launcher-packaged_res-8 D:\TestPlaynera\Playnera\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
